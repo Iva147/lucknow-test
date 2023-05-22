@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lucknow-test/static/css/main.c7fd3942.css",
-    "main.js": "/lucknow-test/static/js/main.c82c98ff.js",
+    "main.js": "/lucknow-test/static/js/main.90baef6f.js",
     "static/media/avatar_2.svg": "/lucknow-test/static/media/avatar_2.57d9ae18fa43070ccda94b92c7f08e5b.svg",
     "static/media/avatar_1.svg": "/lucknow-test/static/media/avatar_1.c8bbbc6b33aacde025e116f96b0dff2f.svg",
     "static/media/avatar_3.svg": "/lucknow-test/static/media/avatar_3.2ffac9e176384e7f423ec06a6840e949.svg",
@@ -38,10 +38,10 @@
     "static/media/checked.svg": "/lucknow-test/static/media/checked.2e5b71c20ff98d0cdf56.svg",
     "static/media/filter.svg": "/lucknow-test/static/media/filter.74289f17e0e446e146651dc54ff89813.svg",
     "main.c7fd3942.css.map": "/lucknow-test/static/css/main.c7fd3942.css.map",
-    "main.c82c98ff.js.map": "/lucknow-test/static/js/main.c82c98ff.js.map"
+    "main.90baef6f.js.map": "/lucknow-test/static/js/main.90baef6f.js.map"
   },
   "entrypoints": [
     "static/css/main.c7fd3942.css",
-    "static/js/main.c82c98ff.js"
+    "static/js/main.90baef6f.js"
   ]
 }
