@@ -21,7 +21,7 @@ export const AppRouter = () => {
     const { user } = useContext(OrderContext)
     
     return (
-        <Router basename={'lucknow-test'}>
+        <Router basename={process.env.NODE_ENV === 'production' ? '/lucknow-test': '/'}>
             <Routes>
                 <Route path="/" element={<PrivateRoute>
                                             <Home />
